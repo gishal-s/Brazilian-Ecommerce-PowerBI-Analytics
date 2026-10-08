@@ -75,6 +75,12 @@ The project focuses on sales performance, customer behavior, product categories,
 - Predictive late-delivery analysis
 - Power BI Service deployment
 - Scheduled data refresh
+- 
+## Power BI File
+
+The complete Power BI `.pbix` file is available here:
+
+[Download Power BI File](https://drive.google.com/file/d/1sS0MfqehNw9EousyS02Lg-r3cg3PzgCC/view?usp=sharing)
 
 ## 👨‍💻 Author
 
